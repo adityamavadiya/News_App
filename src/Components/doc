@@ -1,0 +1,9 @@
+<Route path='/business'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+<Route path='/entertainment'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+<Route path='/general'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+<Route path='/health'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+<Route path='/science'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+<Route path='/sports'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+<Route path='/technology'><News pagesize = {10} countryName={"in"} categoryname = "general"/></Route>
+
+<Route path='/'><News pagesize = {10} countryName={"in"} 
